@@ -2,8 +2,8 @@
 pt-BR:
   label_issue_checklist_plural: Checklist
   field_checklist: Checklist
-  label_checklist_save_log: Salvar mudanÁas 'no' log das tarefas
-  label_checklist_done_ratio: Fixar percentual de conclus„o da tarefa
+  label_checklist_save_log: Salvar mudan√ßas 'no' log das tarefas
+  label_checklist_done_ratio: Fixar percentual de conclus√£o da tarefa
   permission_view_checklists: Visualizar checklist
   permission_done_checklists: Concluir itens do checklist
   permission_edit_checklists: Editar itens do checklist
